@@ -1,6 +1,6 @@
-containr
-uma apliação que ajude usuários a exporem portifólio multimídia
+ï»¿containr
+uma apliaÃ§Ã£o que ajude usuÃ¡rios a exporem portifÃ³lio multimÃ­dia
 em entrevistas de emprego, sem a necessidade de estar conectado a internet
 contando apenas com o uso de um tablet com o app containr e os materiais
 container, cria uma experiencia para expor os trabalhos de maneira artistica
- e profissional, com a capacidade de edição e de utilização de templates
+ e profissional, com a capacidade de ediÃ§Ã£o e de utilizaÃ§Ã£o de templates
