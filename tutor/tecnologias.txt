@@ -1,0 +1,3 @@
+﻿pretendemos utilizar o heroku como host
+ para criar um theme do wordpress
+estamos com problemas tentando utilizar o heroku toolbelt no sheel
